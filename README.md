@@ -42,7 +42,7 @@ The API is to integrate the model implemented in python with the website and the
 ### Prerequisites
 Before running the API, ensure that the following prerequisites are met on the hosting server:
 - [Python](https://www.python.org/downloads/) (Required for the machine learning model)
-- change the location of the python.dll from /Mode lAPI/Services/Classes/ModelService.cs \
+- change the location of the python.dll in /Mode lAPI/Services/Classes/ModelService.cs \
   to the location of the dll exists in the server
 ### API Endpoints
 POST https://dlmodel-001-site1.btempurl.com/api/Model: Send an image as a POST request to get the classification result as text.
