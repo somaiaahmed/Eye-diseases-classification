@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\visual studio projects\\ModelAPI\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\ModelAPI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ModelAPI.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.ModelAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.ModelAPI.props",
+      "PackagePath": "build\\ModelAPI.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ModelAPI.props",
+      "PackagePath": "buildMultiTargeting\\ModelAPI.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.ModelAPI.props",
+      "PackagePath": "buildTransitive\\ModelAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,8 @@
+D:\visual studio projects\ModelAPI\obj\Release\net6.0\win-x64\PubTmp\Out\ModelAPI.exe
+D:\visual studio projects\ModelAPI\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.Development.json
+D:\visual studio projects\ModelAPI\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.json
+D:\visual studio projects\ModelAPI\obj\Release\net6.0\win-x64\PubTmp\Out\ModelAPI.dll
+D:\visual studio projects\ModelAPI\obj\Release\net6.0\win-x64\PubTmp\Out\ModelAPI.deps.json
+D:\visual studio projects\ModelAPI\obj\Release\net6.0\win-x64\PubTmp\Out\ModelAPI.runtimeconfig.json
+D:\visual studio projects\ModelAPI\obj\Release\net6.0\win-x64\PubTmp\Out\ModelAPI.pdb
+D:\visual studio projects\ModelAPI\obj\Release\net6.0\win-x64\PubTmp\Out\Python.Runtime.dll

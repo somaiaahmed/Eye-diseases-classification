@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "API test";
+}
+<div class="text-center">
+
+    <form method="post" enctype="multipart/form-data" asp-action="Scan" asp-controller="Home" onsubmit="stop()">
+        <input type="file" name="image" />
+        <button type="submit" id="sh">scan</button>
+	</form>
+    <hr />
+    @if (ViewBag.Result != "none")
+    {
+        <p>code: 200 <br /> output: @ViewBag.Result </p>
+    }
+    @if (ViewBag.Result == "not found")
+    {
+        <p>code: 404 <br /> output: heavy load please try again </p>
+    }
+
+</div>
+<script>
+    function stop(){
+        document.getElementById('in').disabled = true;
+        document.getElementById('sh').disabled = true;
+    }
+</script>

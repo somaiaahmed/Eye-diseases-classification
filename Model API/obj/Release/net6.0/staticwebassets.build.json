@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "yDi2RH1ZP1pT6aY52DRFSBJRVAgCOPQMv2QycTL802g=",
+  "Source": "ModelAPI",
+  "BasePath": "_content/ModelAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "D:\\visual studio projects\\ModelAPI\\obj\\Release\\net6.0\\scopedcss\\bundle\\ModelAPI.styles.css",
+      "SourceId": "ModelAPI",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\visual studio projects\\ModelAPI\\obj\\Release\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/ModelAPI",
+      "RelativePath": "ModelAPI.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\visual studio projects\\ModelAPI\\obj\\Release\\net6.0\\scopedcss\\bundle\\ModelAPI.styles.css"
+    },
+    {
+      "Identity": "D:\\visual studio projects\\ModelAPI\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\ModelAPI.bundle.scp.css",
+      "SourceId": "ModelAPI",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\visual studio projects\\ModelAPI\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/ModelAPI",
+      "RelativePath": "ModelAPI.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\visual studio projects\\ModelAPI\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\ModelAPI.bundle.scp.css"
+    }
+  ]
+}
