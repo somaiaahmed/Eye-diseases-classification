@@ -30,13 +30,20 @@ The training phase involves splitting the dataset into training and validation s
 ![Model Eval](https://github.com/somaiaahmed/Eye-diseases-classification/assets/52898207/cd10f3aa-88aa-43f4-bdef-d2f4ec1e883b)
 
 
-
 ## Deployment
 As part of our project development, we have successfully built a dedicated web page and a mobile application. These platforms provide user-friendly interfaces to interact with the eye disease classification model, offering seamless access to the classification capabilities on both web and mobile devices.
 
 You can try it now! "https://hassnaa11.github.io/Catanova/
 " 
-
-
-
+## Model API
+The API is to integrate the model implemented in python with the website and the mobile app.
+### Technologies Used
+.NET Core: The API is built using the powerful and cross-platform .NET Core framework, ensuring reliability and scalability.
+### Prerequisites
+Before running the API, ensure that the following prerequisites are met on the hosting server:
+- [Python](https://www.python.org/downloads/) (Required for the machine learning model)
+- change the location of the python.dll from /Mode lAPI/Services/Classes/ModelService.cs \
+  to the location of the dll exists in the server
+### API Endpoints
+POST https://dlmodel-001-site1.btempurl.com/api/Model: Send an image as a POST request to get the classification result as text.
 
