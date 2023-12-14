@@ -41,7 +41,7 @@ The API is to integrate the model implemented in python with the website and the
 .NET Core: The API is built using the powerful and cross-platform .NET Core framework, ensuring reliability and scalability.
 ### Prerequisites
 Before running the API, ensure that the following prerequisites are met on the hosting server:
-- [Python](https://www.python.org/downloads/) (Required for the machine learning model)
+- [Python](https://www.python.org/downloads/) (Required for the model)
 - change the location of the python.dll in /Mode lAPI/Services/Classes/ModelService.cs \
   to the location of the dll exists in the server
 ### API Endpoints
