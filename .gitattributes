@@ -1,3 +1,4 @@
 first[[:space:]]try filter=lfs diff=lfs merge=lfs -text
 path filter=lfs diff=lfs merge=lfs -text
 C:/Users/COMPUMARTS/Desktop/flutter[[:space:]]projects/Math[[:space:]]Research/Eye-diseases-classification filter=lfs diff=lfs merge=lfs -text
+C:/Users/COMPUMARTS/Desktop/flutter[[:space:]]projects/Math[[:space:]]Research/Eye-diseases-classification/MobileApp filter=lfs diff=lfs merge=lfs -text
